@@ -12,7 +12,7 @@ em nuvem para análise de desempenho logístico e satisfação do cliente.
 - Período: 2016–2018
 
 ## Conteúdo
-- `Untitled1.ipynb`: notebook principal com todas as etapas do pipeline
+- `mvp_engenharia_dados_olist.ipynb`: notebook principal com todas as etapas do pipeline
 (coleta, modelagem, carga e análise).
 
 ## Ambiente
